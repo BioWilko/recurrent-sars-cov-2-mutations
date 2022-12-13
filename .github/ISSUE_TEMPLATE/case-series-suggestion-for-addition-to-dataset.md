@@ -19,8 +19,8 @@ A case series will only be included if it fits the inclusion criteria specified 
 
 ### Information on case series
 
-| Accession | Day / Date | Coverage % |
-| -------------- | ---------------- | ----------------- |
+| Accession | Day / Date | Coverage % | DOI |
+| -------------- | ---------------- | ----------------- | --------- |
 |                    |                     |                       |
 |                    |                     |                       |
 |                    |                     |                       |
