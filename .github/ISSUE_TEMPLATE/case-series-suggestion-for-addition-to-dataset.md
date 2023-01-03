@@ -19,17 +19,20 @@ A case series will only be included if it fits the inclusion criteria specified 
 
 ### Information on case series
 
-| Accession | Day / Date | Coverage % | DOI |
-| -------------- | ---------------- | ----------------- | --------- |
-|                    |                     |                       |
-|                    |                     |                       |
-|                    |                     |                       |
-|                    |                     |                       |
-|                    |                     |                       |
-|                    |                     |                       |
-|                    |                     |                       |
-|                    |                     |                       |
-|                    |                     |                       |
-|                    |                     |                       |
-|                    |                     |                       |
-|                    |                     |                       |
+*Note that patient ID should be arbitrary or the same as the source publication, this is purely to distinguish separate case series' within a single submission*
+
+| Patient ID | Accession | Day / Date | Coverage % | DOI |
+| ---------- | --------- | ---------- | ---------- | --- |
+|            |           |            |            |     |
+|            |           |            |            |     |
+|            |           |            |            |     |
+|            |           |            |            |     |
+|            |           |            |            |     |
+|            |           |            |            |     |
+|            |           |            |            |     |
+|            |           |            |            |     |
+|            |           |            |            |     |
+|            |           |            |            |     |
+|            |           |            |            |     |
+|            |           |            |            |     |
+|            |           |            |            |     |
