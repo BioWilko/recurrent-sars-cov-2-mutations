@@ -31,3 +31,5 @@ ID,Source study ID,Time Covered (days),N samples,Pango Lineage,Nature of Immune 
 30,NA,195,7,B.1.1.273,T cell dominant,https://doi.org/10.1016/j.chom.2022.01.005,EPI_ISL_2397308;EPI_ISL_2397309;EPI_ISL_2397310;EPI_ISL_2397311;EPI_ISL_2397312;EPI_ISL_2397313;EPI_ISL_602912
 31,NA,238,3,B.1.351,T cell dominant,https://doi.org/10.1093/cid/ciac548,EPI_ISL_5018695;EPI_ISL_6227177;EPI_ISL_6585229
 32,NA,335,6,B.1.332,B cell dominant,https://doi.org/10.1093/infdis/jiab622,MZ385697.1;MZ385698.1;MZ385699.1;MZ385700.1;MZ385701.1;MZ385702.1;
+33,A,54,3,AY.23.1,Combined,https://doi.org/10.1128/spectrum.00791-22,OM877509;OM881787;OM881791
+34,B,46,2,AY.23,Combined,https://doi.org/10.1128/spectrum.00791-22,OM877508;OM881786
